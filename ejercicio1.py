@@ -10,6 +10,6 @@ if edad >=18:
     print("bienvenida")
 
 else:
-    print("no puede ingresar")
+    print("no puede entrar")
 
 
